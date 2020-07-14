@@ -1,13 +1,15 @@
-帅啊
+### 项目简介： 
 
-```shell
-echo "# STU-Experience" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin git@github.com:WalterJ726/STU-Experience.git
-git push -u origin master
+本项目意为向所有杭电学子提供各种信息，学习资料以及生活经验等。
+薪火相传，只为更好的杭电。
 
-git remote rm origin
-```
+总体结构：
 
+- 微机与单片机
+- 信号与系统
+- ELC4
+- 图形学
+- 思修
+- 高等教育问题
+- 多媒体技术导论
+- 
